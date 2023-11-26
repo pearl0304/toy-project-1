@@ -1,3 +1,7 @@
 /node_modules/
 .env
 /src/uploads/
+*.log
+.vscode/
+package-lock.json
+yarn.lock
