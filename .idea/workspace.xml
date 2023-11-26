@@ -5,21 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9941b749-cf33-4df2-bf73-155d390a9394" name="Changes" comment="feat: Set up a toy project">
-      <change afterPath="$PROJECT_DIR$/src/public/styles/common.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/public/styles/common.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/public/styles/common.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/public/styles/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/common/footer.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/common/head.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/prettier.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/timetracker.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/mainRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/routers/mainRouter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/main/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/main/index.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +78,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "feature/feat-install-css",
+    "git-widget-placeholder": "develop",
     "last_opened_file_path": "/Users/kylie/Desktop/study/timetracker",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
@@ -140,7 +128,7 @@
       <updated>1700996841510</updated>
       <workItem from="1700996842502" duration="4437000" />
       <workItem from="1701001294252" duration="1595000" />
-      <workItem from="1701002911999" duration="2881000" />
+      <workItem from="1701002911999" duration="3397000" />
     </task>
     <task id="LOCAL-00001" summary="feat: Set up a toy project">
       <option name="closed" value="true" />
@@ -167,7 +155,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="feature/feat-install-css" />
+                        <option value="develop" />
                       </list>
                     </value>
                   </entry>
