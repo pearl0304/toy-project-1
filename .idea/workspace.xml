@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9941b749-cf33-4df2-bf73-155d390a9394" name="Changes" comment="feat:Committing changes before release">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="9941b749-cf33-4df2-bf73-155d390a9394" name="Changes" comment="chore(release): 1.1.2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,17 +16,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="SCSS File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="develop" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -41,6 +38,13 @@
     &quot;assignee&quot;: &quot;pearl0304&quot;
   }
 }</component>
+  <component name="GithubProjectSettings">
+    <option name="branchProtectionPatterns">
+      <list>
+        <option value="master" />
+      </list>
+    </option>
+  </component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -77,16 +81,16 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "release/release/1.1.1",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "/Users/kylie/Desktop/study/timetracker",
-    "list.type.of.created.stylesheet": "CSS",
+    "list.type.of.created.stylesheet": "SCSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "prettierjs.PrettierConfiguration.Package": "/Users/kylie/Desktop/study/timetracker/node_modules/prettier",
-    "settings.editor.selected.configurable": "vcs.Git",
+    "settings.editor.selected.configurable": "preferences.sourceCode.EJS",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -127,7 +131,8 @@
       <updated>1700996841510</updated>
       <workItem from="1700996842502" duration="4437000" />
       <workItem from="1701001294252" duration="1595000" />
-      <workItem from="1701002911999" duration="3861000" />
+      <workItem from="1701002911999" duration="4583000" />
+      <workItem from="1701086023358" duration="7900000" />
     </task>
     <task id="LOCAL-00001" summary="feat: Set up a toy project">
       <option name="closed" value="true" />
@@ -145,7 +150,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701006385243</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="chore(release): 1.1.2">
+      <option name="closed" value="true" />
+      <created>1701095474681</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701095474681</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,7 +175,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="develop" />
+                        <option value="feature/feat-main-page" />
                       </list>
                     </value>
                   </entry>
@@ -181,7 +194,9 @@
     </ignored-roots>
     <MESSAGE value="feat: Set up a toy project" />
     <MESSAGE value="feat:Committing changes before release" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat:Committing changes before release" />
+    <MESSAGE value="feat: make main page" />
+    <MESSAGE value="chore(release): 1.1.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore(release): 1.1.2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

@@ -1,11 +1,8 @@
-import { Router } from "express";
+import {Router} from "express";
+import {mainController} from "../controllers/mainController.js";
 
 const router = Router();
 
-router.get("/", (req, res) => {
-  res.render("main/index", { pageTitle: "Main" });
-});
-
-
+router.get("/", mainController.getMainPage);
 
 export default router;

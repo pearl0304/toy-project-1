@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.2](https://github.com/pearl0304/toy-project-1/compare/v1.1.1...v1.1.2) (2023-11-27)
+
+
+### Features
+
+* make main page ([4a4eff6](https://github.com/pearl0304/toy-project-1/commit/4a4eff645b5d78d63c3281b75cc68ce874234cad))
+
 ### [1.1.1](https://github.com/pearl0304/toy-project-1/compare/v1.1.0...v1.1.1) (2023-11-26)
 
 ## 1.0.0 (2023-11-26)
