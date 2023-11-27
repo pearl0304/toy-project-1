@@ -5,8 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9941b749-cf33-4df2-bf73-155d390a9394" name="Changes" comment="feat:Committing changes before release">
+      <change afterPath="$PROJECT_DIR$/src/public/fonts /SCDream4.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/styles/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/styles/main.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/styles/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/common/header.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/mainController.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/mainController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routers/mainRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/routers/mainRouter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/public/styles/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/public/styles/common.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/public/styles/common.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/public/styles/common.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/public/styles/common.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/public/styles/common.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/public/styles/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/public/styles/reset.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/common/footer.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/common/footer.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/common/head.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/common/head.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/main/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/main/index.ejs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,17 +33,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="SCSS File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="develop" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -77,16 +91,16 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "release/release/1.1.1",
+    "git-widget-placeholder": "feature/feat-main-page",
     "last_opened_file_path": "/Users/kylie/Desktop/study/timetracker",
-    "list.type.of.created.stylesheet": "CSS",
+    "list.type.of.created.stylesheet": "SCSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "prettierjs.PrettierConfiguration.Package": "/Users/kylie/Desktop/study/timetracker/node_modules/prettier",
-    "settings.editor.selected.configurable": "vcs.Git",
+    "settings.editor.selected.configurable": "preferences.sourceCode.EJS",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -127,7 +141,8 @@
       <updated>1700996841510</updated>
       <workItem from="1700996842502" duration="4437000" />
       <workItem from="1701001294252" duration="1595000" />
-      <workItem from="1701002911999" duration="3861000" />
+      <workItem from="1701002911999" duration="4583000" />
+      <workItem from="1701086023358" duration="7900000" />
     </task>
     <task id="LOCAL-00001" summary="feat: Set up a toy project">
       <option name="closed" value="true" />
