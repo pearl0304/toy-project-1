@@ -5,22 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9941b749-cf33-4df2-bf73-155d390a9394" name="Changes" comment="feat:Committing changes before release">
-      <change afterPath="$PROJECT_DIR$/src/public/fonts /SCDream4.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/public/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/public/styles/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/public/styles/main.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/public/styles/main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/common/header.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/mainController.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/mainController.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/mainRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/routers/mainRouter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/public/styles/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/public/styles/common.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/public/styles/common.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/public/styles/common.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/public/styles/common.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/public/styles/common.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/public/styles/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/public/styles/reset.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/common/footer.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/common/footer.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/common/head.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/common/head.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/main/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/main/index.ejs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +76,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "feature/feat-main-page",
+    "git-widget-placeholder": "release/release/1.1.2",
     "last_opened_file_path": "/Users/kylie/Desktop/study/timetracker",
     "list.type.of.created.stylesheet": "SCSS",
     "node.js.detected.package.eslint": "true",
@@ -177,7 +162,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="develop" />
+                        <option value="feature/feat-main-page" />
                       </list>
                     </value>
                   </entry>
@@ -196,7 +181,8 @@
     </ignored-roots>
     <MESSAGE value="feat: Set up a toy project" />
     <MESSAGE value="feat:Committing changes before release" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat:Committing changes before release" />
+    <MESSAGE value="feat: make main page" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: make main page" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
