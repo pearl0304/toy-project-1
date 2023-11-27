@@ -1,5 +1,12 @@
 <%- include('../common/head.ejs') %>
-<div>
-    <h1>Main Page</h1>
+<div class="main_wrap">
+  <div class="main_box clock_box">
+    <div id="today" class="today"></div>
+    <div id="clock" class="clock">00:00:00</div>
+  </div>
+  <div class="main_box btn_box">
+    <div><button id="statButton" type="button">출근</button></div>
+    <div><button id="endButton" type="button">퇴근</button></div>
+  </div>
 </div>
 <%- include('../common/footer.ejs') %>
