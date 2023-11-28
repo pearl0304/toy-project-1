@@ -1,0 +1,30 @@
+<%- include('../common/head.ejs') %>
+<div class="member_wrap">
+  <div class="member_box">
+    <div class="title">
+      <p>Welcome 👋🏻</p>
+    </div>
+    <form action="/member/signupCheck" method="post" name="login_form">
+      <div class="form_box">
+        <label for="uid">ID</label>
+        <input id="uid" name="uid" type="text" minlength="2" maxlength="10">
+      </div>
+      <div class="form_box">
+        <label for="name">Name</label>
+        <input id="name" name="name" type="text">
+      </div>
+      <div class="form_box">
+        <label for="email">Email</label>
+        <input id="email" name="email" type="email">
+      </div>
+      <div class="form_box">
+        <label for="passwd">PW</label>
+        <input id="passwd" name="passwd" type="password">
+      </div>
+      <div class="submit_box">
+        <button type="button" id="submit_signup_btn">SignUp</button>
+      </div>
+    </form>
+  </div>
+</div>
+<%- include('../common/footer.ejs') %>

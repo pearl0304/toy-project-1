@@ -4,7 +4,7 @@ export const mainController = {
       const pageInfo = {
         pageTitle: "Main",
         pageStylesheet: '/public/styles/main.css',
-        js: '/public/js/main.js'
+        js: '/public/js/main.js',
       }
       res.render("main/index", pageInfo);
     } catch (e) {

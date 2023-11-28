@@ -1,0 +1,22 @@
+<%- include('../common/head.ejs') %>
+<div class="member_wrap">
+  <div class="member_box">
+    <div class="title">
+      <p>Have a Nice day</p>
+    </div>
+    <form action="/member/loginCheck" method="post" name="login_form">
+      <div class="form_box">
+        <label for="uid">ID</label>
+        <input id="uid" name="uid" type="text" minlength="2" maxlength="10">
+      </div>
+      <div class="form_box">
+        <label for="passwd">PW</label>
+        <input id="passwd" name="passwd" type="password">
+      </div>
+      <div class="submit_box">
+        <button type="button" id="submit_btn">Login</button>
+      </div>
+    </form>
+  </div>
+</div>
+<%- include('../common/footer.ejs') %>

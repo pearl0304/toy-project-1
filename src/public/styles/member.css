@@ -1,0 +1,60 @@
+.member_wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.member_wrap .member_box {
+  background-color: white;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.member_wrap .member_box .title {
+  text-align: center;
+  color: #0047ab;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+.member_wrap .member_box form {
+  display: flex;
+  flex-direction: column;
+}
+.member_wrap .member_box form .form_box {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+.member_wrap .member_box form .form_box label {
+  margin-right: 10px;
+  width: 40px;
+  font-size: 14px;
+}
+.member_wrap .member_box form .form_box input {
+  flex: 1;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+.member_wrap .member_box form .form_box input:focus {
+  outline: none;
+  border-color: #0047ab;
+}
+.member_wrap .member_box form .submit_box {
+  text-align: center;
+}
+.member_wrap .member_box form .submit_box button {
+  width: 100%;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 20px;
+  background-color: #0047ab;
+  color: white;
+  text-align: center;
+  cursor: pointer;
+}
+.member_wrap .member_box form .submit_box button:hover {
+  background-color: #003278;
+}
+
+/*# sourceMappingURL=member.css.map */
